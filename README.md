@@ -5,10 +5,17 @@
 ### 2. Manga
 ### 3. Manwha
 ### 4. Manhua
-# __Example of an Anine Shounen__
-![This is an image](https://user-images.githubusercontent.com/118231407/202307681-c1a7af82-3055-4e98-b0f8-6faf6bb83350.png)
+# Eample of an Anime Shounen
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/118231407/203192996-a42dc19a-b2f2-4cbf-a9ef-d750f1171b9c.png"
+</p>
+  
 # __Example of a Manga Shounen__
-![This is an image](https://user-images.githubusercontent.com/118231407/202327041-7f150459-0a96-4895-88fc-a0f53bdb8886.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/118231407/202327041-7f150459-0a96-4895-88fc-a0f53bdb8886.png"
+</p>
+
 # __Example of a Manwha Shounen__
-![This is an image](https://user-images.githubusercontent.com/118231407/202324072-07ea9839-338c-4727-a5e4-27e8c050d95e.png)
-# __Example of a Manhua Shounen__
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/118231407/203190668-f1d40d48-4276-4232-86e8-fdf2fc4ef414.png">
+</p>
