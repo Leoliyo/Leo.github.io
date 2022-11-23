@@ -1,10 +1,10 @@
 # __What is Shounen?__
 ### Shounen is a genre of Japanese comics and animated films aimed primarily at a young male audience, typically characterized by action-filled plots.
 # __Types of Shounen__
-### 1. Anime
-### 2. Manga
-### 3. Manwha
-### 4. Manhua
+### 1. **Anime** - a style of Japanese film and television animation.
+### 2. **Manga** - a style of Japanese comic books and graphic novels.
+### 3. **Manwha** - a style of South Korean comic books and graphic novels.
+### 4. **Manhua** - a style of China comic books and graphic novels.
 # Example of an Anime Shounen
 <img src="https://user-images.githubusercontent.com/118231407/203192996-a42dc19a-b2f2-4cbf-a9ef-d750f1171b9c.png" data-canonical-src="https://user-images.githubusercontent.com/118231407/203192996-a42dc19a-b2f2-4cbf-a9ef-d750f1171b9c.png" width="500" height="300" />
 
