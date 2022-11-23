@@ -16,3 +16,7 @@
 
 # Example of a Manhua Shounen
 <img src="https://user-images.githubusercontent.com/118231407/203447920-6cd1fbc2-d3bf-4c19-97e0-effa3874242d.png" data-canonical-src="https://user-images.githubusercontent.com/118231407/203447956-6ed28e37-271b-4e8d-85ff-f874ef2aaf3f.png" width="500" height="500" />
+
+
+<img src="![image](https://user-images.githubusercontent.com/118231407/203507735-0cad9e18-bf62-45b6-a42b-50c177756714.png)
+" data-canonical-src="https://user-images.githubusercontent.com/118231407/203447956-6ed28e37-271b-4e8d-85ff-f874ef2aaf3f.png" width="500" height="500" />
