@@ -6,7 +6,7 @@
 ### 3. **Manwha** - a style of South Korean comic books and graphic novels.
 ### 4. **Manhua** - a style of China comic books and graphic novels.
 # Example of an Anime Shounen
-<img src="https://user-images.githubusercontent.com/118231407/203192996-a42dc19a-b2f2-4cbf-a9ef-d750f1171b9c.png" data-canonical-src="https://user-images.githubusercontent.com/118231407/203192996-a42dc19a-b2f2-4cbf-a9ef-d750f1171b9c.png" width="500" height="300" />
+<img src="https://media3.giphy.com/media/QUKqSLmE7vmZP2PkZk/giphy.gif?cid=ecf05e47pjx2ub3et43idwopeju9z9ld0ya6fqw2d0zl41uy&rid=giphy.gif&ct=g" data-canonical-src="https://media3.giphy.com/media/QUKqSLmE7vmZP2PkZk/giphy.gif?cid=ecf05e47pjx2ub3et43idwopeju9z9ld0ya6fqw2d0zl41uy&rid=giphy.gif&ct=g" width="500" height="300" />
 
 # Example of a Manga Shounen 
 <img src="https://user-images.githubusercontent.com/118231407/202327041-7f150459-0a96-4895-88fc-a0f53bdb8886.png" data-canonical-src="https://user-images.githubusercontent.com/118231407/202327041-7f150459-0a96-4895-88fc-a0f53bdb8886.png" width="500" height="300" />
